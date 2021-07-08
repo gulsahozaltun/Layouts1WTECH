@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LayoutsBirinciDers</string>
+    <string name="baslik_string">Layouts First Lesson</string>
+    <string name="button_string">Login</string>
+    <string name="hint_sifre" >Password</string>
+    <string name="hint_name" >Name Surname</string>
+</resources>

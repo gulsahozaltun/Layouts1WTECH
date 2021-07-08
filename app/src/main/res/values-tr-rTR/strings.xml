@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LayoutsBirinciDers</string>
+    <string name="baslik_string">Layouts BirinciDers</string>
+    <string name="button_string">Giris Yap</string>
+    <string name="hint_sifre">Sifre</string>
+    <string name="hint_name">Ad Soyad</string>
+</resources>
